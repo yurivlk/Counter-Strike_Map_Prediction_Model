@@ -1,4 +1,36 @@
-# Counter-Strike_Match_Prediction_Model
+# Counter-Strike_Map_Winner_Prediction_Model
+
+# Project objective
+
+The main goal of this project is based on that try to create a model to predict the winner of a Counter-Strike confront.
+
+# Methods
+
+Web Scrapping
+
+ETL pipeline
+
+Filtering
+
+Machine Learning
+
+Visualization
+
+# Technologies
+
+Python
+
+MYSQL
+
+Pandas
+
+Sklearn
+
+Tableau
+
+# Project Description
+ 
+The size of E sports market size don't stop growing over the past years the data show it to usus. The global Esports market size was estimates at USD 2,008.4 million in 2021 and expected to reach USD 2,566.5 million in 2022. Gambling was always pratical between fans and with E sport is not different, this industry has followed tha growing market and it already took in place between fans. Having it in mind, using my new data analysis skill, I have created an automatic  ETL process to extract data from the biggest Counter-Strike statistical, matches outcomes and shaped a predicti model  using machine learning technologies.
  
 # Scraping process
 

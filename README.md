@@ -69,7 +69,25 @@ The page reached with the same link on the step above simply adding the word eco
  
  # Exploratory Data Analisis
  
- The primary purpose of this analysis is to identify the correlation between the features collected and or target variable, which is the winner.
+ With this analysis I want to identify if are there any correlations between the data frame features and the target variable winner.
+ 
+ Score Distribution plot
+ 
+ ![plot](images/score_distribution.jpeg) 
+ 
+ Correlation Matrix plot
+ 
+ ![plot](images/correlation_matrix.jpeg) 
+ 
+ Data Frame Ballance
+ 
+  ![plot](images/dataframe.jpeg)
+  
+  Those plots above could give to me some insights
+  - How competitive the Counter-Strike is.
+  - Economic features has a high importance in the game.
+  - Impact features such as number of clutches and first kills in the map has a high importance as well.
+  - The Data Frame is ballanced, the number of victories of team1 and team 2 it is not too different.
  
  # Model
  
@@ -77,8 +95,12 @@ The page reached with the same link on the step above simply adding the word eco
  
  # Model evaluation
  
- <>image<>
+ As we are looking at the gambling market and the Dataset is well ballanced, I decided to use accuracy as parameter to measure how good is the model.
  
+Model classification report
+
+  ![plot](images/evaluation1.jpeg)
+
  # Results
  
  # Conclusion

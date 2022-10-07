@@ -84,7 +84,7 @@ The page reached with the same link on the step above simply adding the word eco
 
 Scheduler tool Cron
 
-![plot](cron/Load.jpeg)
+![plot](images/cron.jpeg)
 
 # Exploratory Data Analisis
  

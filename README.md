@@ -103,8 +103,18 @@ Model classification report
 
  # Results
  
-  Compiled results.
- ![plot](images/evaluation1.jpeg)
+ Compiled results.
+ 
+ Here follow a sample of the final table with probabilities attached to the original DataFrame.
+ 
+ ![plot](images/final_results2.jpeg)
+ 
+ Observations: 
+ (prob_t1_win2 will always be the probabilty of the first team in the confront collumn.
+ 
+ )
+ 
+ 
  # Conclusion
  
  

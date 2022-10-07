@@ -1,5 +1,7 @@
 # Counter-Strike_Map_Winner_Prediction_Model
 
+Project status: in progress
+
 # Project objective
 
 The main goal of this project is to create a model to predict the winner of a Counter-Strike match.
@@ -131,7 +133,8 @@ Feature importance plot
 
 (column prob_t1_win2 will always be the probability of the first team in the confront column)
  
- To have better understanding I have also created a chart with some interactivity to make user experience easier.
+
+To understand better I also created a graphic with some interactivity to facilitate the user experience. You can find it here:
  You can find it here: https://public.tableau.com/app/profile/yuri.velkis/viz/Counter-Strike_final_chart/ModelChart?publish=yes
  
  # Conclusion

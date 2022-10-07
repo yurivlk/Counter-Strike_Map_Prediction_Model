@@ -54,7 +54,7 @@ The outcome of this result is a list with all the match links.
 
 Second Step: Extract map info detail links from each link grabbed on the first step.
 
-<>image<>
+![plot](images/map-details.jpeg)
 
 Third Step: Extract relevant info from each map played in the match.
 

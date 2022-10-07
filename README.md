@@ -12,7 +12,7 @@ ETL pipeline
 
 Filtering
 
-Machine Learning
+Machine Learn
 
 Visualization
 
@@ -24,12 +24,13 @@ MYSQL
 
 Pandas
 
-Sklear
+Sklearn
+
 Tableau
 
 # Project Description / Motivation
  
-The Esports market size doesn't stop growing over the years. The data show it to us. The global Esports market size was estimated at USD 2,008.4 million in 2021 and is expected to reach USD 2,566.5 million in 2022. Gambling was always a common habit among sports fans, and for esports fans, it is no different, this industry has followed the growing market, and it already took place among fans. With my new data analysis skill, ETL, data analysis, and machine learning techniques let's try to get better luck in our next bet.
+The Esports market size doesn't stop growing over the years. The data show it to us. The global Esports market size was estimated at USD 2,008.4 million in 2021 and is expected to reach USD 2,566.5 million in 2022. Gambling was always a common habit among sports fans, and for esports fans, it is no different, this industry has followed the growing market, and it already took place among fans. With my new data analysis skill and machine learning techniques let's try to get better luck in our next bet.
 # Steps
 
 ## ETL Pipeline
@@ -95,11 +96,12 @@ The etl process result in a DB with 28 columns and 1917 rows untill now.
  
   ![plot](images/dataframe.jpeg)
   
-  Those plots above could give to me some insights
-  - How competitive the Counter-Strike is.
-  - Economic features has a high importance in the game.
-  - Impact features such as number of clutches and first kills in the map has a high importance as well.
-  - The Data Frame is ballanced, the number of victories of team1 and team 2 it is not too different.
+These graphs above gave me some insights
+ 
+  - How competitive is Counter-Strike.
+  - Economic characteristics are of great importance in the game.
+  - Impact features such as number of clutches and first kills on the map are also of great importance.
+  - The Data Frame is balanced, the number of wins of team 1 and team 2 is not much different.
  
  # Model
  
@@ -126,11 +128,12 @@ Feature importance plot
  ![plot](images/final_result2.jpeg)
  
  Observations: 
- (prob_t1_win2 column will always be the probabilty of the first team in the confront collumn, in the first line this column represents the probabily of Astralis defeat BIG )
+
+(column prob_t1_win2 will always be the probability of the first team in the confront column)
  
- To have better understanding I have also created a chart with some interativitie for the user.
+ To have better understanding I have also created a chart with some interactivity to make user experience easier.
  You can find it here: https://public.tableau.com/app/profile/yuri.velkis/viz/Counter-Strike_final_chart/ModelChart?publish=yes
  
  # Conclusion
  
- As our dataset is still receiving data from the ETL pipeline I could not yet draw significants conclusion about the model.
+Since our dataset is still receiving data from the data pipeline, I still haven't been able to draw any meaningful conclusions about the model..

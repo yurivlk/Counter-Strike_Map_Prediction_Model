@@ -110,11 +110,11 @@ Model classification report
  ![plot](images/final_result2.jpeg)
  
  Observations: 
- (prob_t1_win2 will always be the probabilty of the first team in the confront collumn.
+ (prob_t1_win2 column will always be the probabilty of the first team in the confront collumn, in the first line this column represents the probabily of Astralis defeat BIG )
  
- )
- 
+ To have better understanding I have also created a chart with some interativitie for the user.
+ You can find it here: https://public.tableau.com/app/profile/yuri.velkis/viz/Counter-Strike_final_chart/ModelChart?publish=yes
  
  # Conclusion
  
- 
+ As our dataset is still receiving data from the ETL pipeline I could not yet draw significants conclusion about the model.

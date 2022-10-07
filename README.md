@@ -80,7 +80,11 @@ The page reached with the same link on the step above simply adding the word eco
 
 ![plot](images/Load.jpeg)
 
-The etl process result in a DB with 28 columns and 1917 rows untill now.
+# Automating the data pipeline
+
+Scheduler tool Cron
+
+![plot](cron/Load.jpeg)
 
 # Exploratory Data Analisis
  

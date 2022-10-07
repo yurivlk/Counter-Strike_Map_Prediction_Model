@@ -36,7 +36,7 @@ The Esports market size doesn't stop growing over the years. The data show it to
  
 The project followed pipeline premises to get and store all data; down below, follow the schema where we can better look at how it works.
  
-![plot](images/etl-pipeline.jpeg)
+![plot](images/elt-pipeline.jpeg)
 
 ## Source:  Web Scraping
 To better understand, let's use some images to help us.

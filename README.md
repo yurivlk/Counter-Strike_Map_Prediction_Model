@@ -57,18 +57,13 @@ Third Step: Extract relevant info from each map played in the match.
 
 Here on this page, we can find all the impact features of the matches.
 
-![plot](images/impact-features.jpeg)
+![plot](images/impact_features.jpeg)
 
 Fourth and Final step: Extract economy features from the economy page.
 
 The page reached with the same link on the step above simply adding the word economy in the URL.
 
-Example:
-
- <>image<>
- 
-
- 
+![plot](images/economic_features.jpeg) 
  
  The outcome until now is a Database shaped 1951 rows and 27 columns.
  

@@ -38,7 +38,7 @@ The project followed pipeline premises to get and store all data; down below, fo
  
 ![plot](images/elt-pipeline.jpeg)
 
-## Source:  Web Scraping
+### Source:  Web Scraping
 To better understand, let's use some images to help us.
 
 Data Source: HLTV.ORG
@@ -65,8 +65,18 @@ The page reached with the same link on the step above simply adding the word eco
 
 ![plot](images/economic_features.jpeg) 
  
- The outcome until now is a Database shaped 1951 rows and 27 columns.
- 
+### Extraction functions
+
+![plot](images/ex-func.jpeg) 
+
+### Transform function
+
+![plot](images/transform.jpeg) 
+
+### Load function
+
+![plot](images/Load.jpeg)
+
  # Exploratory Data Analisis
  
  With this analysis I want to identify if are there any correlations between the data frame features and the target variable winner.

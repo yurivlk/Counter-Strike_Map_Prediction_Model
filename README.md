@@ -121,7 +121,7 @@ Model classification report
 
   ![plot](images/evaluation1.jpeg)
   
-Feature importance plot
+Importance plot
 
 ![plot](images/importance.jpeg)
 

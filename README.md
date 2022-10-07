@@ -71,7 +71,7 @@ The page reached with the same link on the step above simply adding the word eco
 
 ### Transform function
 
-![plot](images/transform.jpeg) 
+![plot](images/transform2.jpeg) 
 
 ### Load function
 

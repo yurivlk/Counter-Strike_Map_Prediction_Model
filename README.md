@@ -77,9 +77,11 @@ The page reached with the same link on the step above simply adding the word eco
 
 ![plot](images/Load.jpeg)
 
- # Exploratory Data Analisis
+The etl process result in a DB with 28 columns and 1917 rows untill now.
+
+# Exploratory Data Analisis
  
- With this analysis I want to identify if are there any correlations between the data frame features and the target variable winner.
+ With this analysis I want to identify if there are any correlations between the data frame features and the target variable winner.
  
  Score Distribution plot
  
@@ -87,7 +89,7 @@ The page reached with the same link on the step above simply adding the word eco
  
  Correlation Matrix plot
  
- ![plot](images/correlation_matrix.jpeg) 
+ ![plot](images/correlation-matrix.png) 
  
  Data Frame Ballance
  

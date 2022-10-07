@@ -103,6 +103,8 @@ Model classification report
 
  # Results
  
+  Compiled results.
+ ![plot](images/evaluation1.jpeg)
  # Conclusion
  
  

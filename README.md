@@ -54,7 +54,7 @@ The outcome of this result is a list with all the match links.
 
 Second Step: Extract map info detail links from each link grabbed on the first step.
 
-![plot](images/map-details.jpeg)
+![plot](images/map-details2.jpeg)
 
 Third Step: Extract relevant info from each map played in the match.
 
@@ -98,7 +98,7 @@ Scheduler tool Cron
  
  ![plot](images/correlation-matrix.png) 
  
- Data Frame Ballance
+ Data Frame Balance
  
   ![plot](images/dataframe.jpeg)
   

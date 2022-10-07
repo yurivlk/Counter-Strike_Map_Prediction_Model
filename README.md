@@ -48,7 +48,7 @@ Data Source: HLTV.ORG
 
 First Step: Extract match info links from Hltv.org/results.
 
-![plot](images/HLTV.jpeg)
+![plot](images/hltv-1.jpeg)
 
 The outcome of this result is a list with all the match links.
 

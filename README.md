@@ -28,10 +28,9 @@ Sklearn
 
 Tableau
 
-# Project Description
+# Project Description / Motivation
  
-The Esports market size doesn't stop growing over the years. The data show it to usus. The global Esports market size was estimated at USD 2,008.4 million in 2021 and is expected to reach USD 2,566.5 million in 2022. Gambling was always a common habit among its fans, and e-sports is no different, this industry has followed the growing market, and it already took place among fans. With it in mind, using my new data analysis skill, I have created an automatic  ETL process to extract data from the most significant Counter-Strike statistics website, match outcomes, and shape a predictive model using machine learning technologies.
- 
+The Esports market size doesn't stop growing over the years. The data show it to us. The global Esports market size was estimated at USD 2,008.4 million in 2021 and is expected to reach USD 2,566.5 million in 2022. Gambling was always a common habit among sports fans, and for esports fans, it is no different, this industry has followed the growing market, and it already took place among fans. With my new data analysis skill, ETL, data analysis, and machine learning techniques let's try to get better luck in our next bet.
 # Scraping process
 
 To better understand, let's use some images to help us.

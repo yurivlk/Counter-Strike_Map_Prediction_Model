@@ -112,6 +112,10 @@ The etl process result in a DB with 28 columns and 1917 rows untill now.
 Model classification report
 
   ![plot](images/evaluation1.jpeg)
+  
+Feature importance plot
+
+![plot](images/importance.jpeg)
 
  # Results
  

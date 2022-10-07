@@ -57,7 +57,7 @@ Third Step: Extract relevant info from each map played in the match.
 
 Here on this page, we can find all the impact features of the matches.
 
-<> Image <>
+![plot](images/impact-features.jpeg)
 
 Fourth and Final step: Extract economy features from the economy page.
 
